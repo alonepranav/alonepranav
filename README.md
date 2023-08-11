@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">Languages and Tools I use :</h3>    
 <p align="left">
-<img src="./img/reactjs.png" alt="c" width="45" height="40"/>&nbsp;
+<img src="./img/reactjs.png" title="React JS" alt="c" width="45" height="40"/>&nbsp;
 <img src="./img/nextjs.png" alt="c" width="40" height="40"/>&nbsp;
 <img src="./img/nodejs.png" alt="c" width="40" height="40"/>&nbsp;
 <img src="./img/expressjs.png" alt="c" width="40" height="40"/>&nbsp;
