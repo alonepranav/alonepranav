@@ -5,6 +5,8 @@ You can click the Preview link to take a look at your changes.
 
 <h2>Hi, I am Pranav 👋</h2>
 
+<img src="./img/gif.gif" align="right" alt="GIF" height="200px" width="300px" style="border-radius:5px"/>
+
 - 🧑‍💻 I am a Web Developer
 
 - 🌱 I’m currently working on projects.
@@ -43,8 +45,14 @@ You can click the Preview link to take a look at your changes.
 - Linkedin : &nbsp;&nbsp; **<a href="https://www.linkedin.com/in/pranav-shilavane-9245b8236/" target="_blank">@PranavShilavane</a>**
 - Twitter : &nbsp;&nbsp; **<a href="https://twitter.com/pranavshilavane" target="_blank">@PranavShilavane</a>**
 
+<p>
+
+<img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=alonepranav&show_icons=true&locale=en&layout=donut" alt="alonepranav" />
+</p>
+
 <br/>
-<p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=alonepranav&show_icons=true&locale=en&layout=donut" alt="alonepranav" /></p>
+<br/>
+<br/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alonepranav&show_icons=true&locale=en" alt="alonepranav" /></p>
 
