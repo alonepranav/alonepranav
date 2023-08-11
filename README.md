@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 <h4><a href="https://project-pranav.web.app">🔗 My Project Showcase website</a></h4>
 
-<h3 align="left">Languages and Tools:</h3>    
+<h3 align="left">Languages and Tools I use :</h3>    
 <p align="left">
 <img src="./img/reactjs.png" alt="c" width="45" height="40"/>&nbsp;
 <img src="./img/nextjs.png" alt="c" width="40" height="40"/>&nbsp;
@@ -48,13 +48,7 @@ You can click the Preview link to take a look at your changes.
 <p>
 
 <img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=alonepranav&show_icons=true&locale=en&layout=donut" alt="alonepranav" />
-</p>
-
-<br/>
-<br/>
-<br/>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alonepranav&show_icons=true&locale=en" alt="alonepranav" /></p>
+</p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alonepranav&show_icons=true&locale=en" alt="alonepranav" /></p>
 
 <!--
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alonepranav&" alt="alonepranav" /></p> -->
