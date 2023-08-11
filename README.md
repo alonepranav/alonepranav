@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 <h2>Hi, I am Pranav 👋</h2>
 
-<img src="./img/gif.gif" align="right" alt="GIF" height="230px" width="330px" style="border-radius:5px !important"/>
+<img src="./img/gif.gif" align="right" alt="GIF" height="220px" width="300px" style="border-radius:5px !important"/>
 
 - 🧑‍💻 I am a Web Developer
 
