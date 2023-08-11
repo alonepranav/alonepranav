@@ -44,7 +44,7 @@ You can click the Preview link to take a look at your changes.
 - Twitter : &nbsp;&nbsp; **<a href="https://twitter.com/pranavshilavane" target="_blank">@PranavShilavane</a>**
 
 <br/>
-<p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=pranavshilavane&show_icons=true&locale=en&layout=donut" alt="pranavshilavane" /></p>
+<p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=alonepranav&show_icons=true&locale=en&layout=donut" alt="alonepranav" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alonepranav&show_icons=true&locale=en" alt="alonepranav" /></p>
 
