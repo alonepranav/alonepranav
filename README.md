@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
 <img src="./img/js.png" title="Javascript" alt="c" width="40" height="40"/>&nbsp;
 <img src="./img/tailwindcss.png" title="Tailwind CSS" alt="c" width="40" height="40"/>&nbsp;
 <img src="./img/c.png" title="C" alt="c" width="40" height="40"/>&nbsp;
-<img src="./img/c++.png" title="C++" alt="c" width="45" height="41"/>&nbsp;
+<!--<img src="./img/c++.png" title="C++" alt="c" width="45" height="41"/>-->&nbsp;
 <img src="./img/python.png" title="Python" alt="c" width="40" height="40"/>&nbsp;
 <img src="./img/git.png" title="Git" alt="c" width="40" height="40"/>&nbsp;
 <img src="./img/vscode.png" title="VS Code" alt="c" width="40" height="40"/>
