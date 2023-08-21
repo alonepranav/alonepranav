@@ -24,8 +24,6 @@ You can click the Preview link to take a look at your changes.
 <img src="./img/nodejs.png" title="NodeJS" alt="c" width="40" height="40"/>&nbsp;
 <img src="./img/expressjs.png" title="ExpressJS" alt="c" width="40" height="40"/>&nbsp;
 <img src="./img/redux.png" title="Redux" alt="c" width="39" height="40"/>&nbsp;
-<img src="./img/firebase.png"  title="Firebase" alt="c" width="40" height="40"/>&nbsp;
-<img src="./img/mongodb.png" title="Mongo DB" alt="c" width="40" height="40"/>&nbsp;
 <img src="./img/html.png" title="HTML" alt="c" width="40" height="40"/>&nbsp;
 <img src="./img/css.png" title="CSS" alt="c" width="40" height="40"/>&nbsp;
 <img src="./img/js.png" title="Javascript" alt="c" width="40" height="40"/>&nbsp;
@@ -35,6 +33,11 @@ You can click the Preview link to take a look at your changes.
 <img src="./img/python.png" title="Python" alt="c" width="40" height="40"/>&nbsp;
 </p>
 
+<h3 align="left">I know about this databases :</h3>    
+<p align="left">
+<img src="./img/firebase.png"  title="Firebase" alt="c" width="40" height="40"/>&nbsp;
+<img src="./img/mongodb.png" title="Mongo DB" alt="c" width="40" height="40"/>&nbsp;
+</p>
 
 <h3 align="left">I use these tools :</h3>    
 <p align="left">
