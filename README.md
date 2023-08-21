@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 <h4><a href="https://project-pranav.web.app">🔗 My Project Showcase website</a></h4>
 
-<h3 align="left">I code in this languages: </h3>    
+<h3 align="left">I know to code in this : </h3>    
 <p align="left">
 <img src="./img/reactjs.png" title="ReactJS" alt="c" width="45" height="40"/>&nbsp;
 <img src="./img/nextjs.png" title="NextJS" alt="c" width="40" height="40"/>&nbsp;
