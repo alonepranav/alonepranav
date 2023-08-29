@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 - 😇 Here, I keep my codes, projects, web apps, API, and coding stuff.
 - 📫 How to reach me : send me a 👉<a href="mailto:pranavshilavane1@gmail.com">**Email 📩**</a> 👈
 
-<h4><a href="/">🔗 My portfolio Website is coming soon</a></h4>
+<h4><a href="https://pranavshilavane.vercel.app">🔗 My portfolio Website</a></h4>
 
 <h4><a href="https://project-pranav.web.app">🔗 My Project Showcase website</a></h4>
 
