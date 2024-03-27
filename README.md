@@ -3,7 +3,7 @@ alonepranav/alonepranav is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 align="center">Hi 👋, I am Pranav</h1>
+<h1  >Hi 👋, I am Pranav</h1>
 
 
 - 🧑‍💻 I am a **Full Stack Web Developer**
