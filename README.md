@@ -41,11 +41,11 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">Connect with me:</h3>
 
-<a href="https://replit.com/@pranavshilavane" target="_blank">
-<img src="./img/instagram.png" title="Javascript" alt="c" width="40" height="40"/>
+<a href="https://instagram.com/pranavshilavane" target="_blank">
+<img src="./img/instagram.png" title="Instagram" alt="Instagra Logo" width="40" height="40"/>
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://replit.com/@pranavshilavane" target="_blank">
- <img src="./img/x.png" title="Javascript" alt="c" width="40" height="40"/>
+ <img src="./img/x.png" title="Twitter" alt="Twitter Logo" width="40" height="40"/>
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://replit.com/@pranavshilavane" target="_blank">
 <img src="./img/linked.png" title="Javascript" alt="c" width="40" height="40"/>&nbsp;
