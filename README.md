@@ -39,7 +39,7 @@ You can click the Preview link to take a look at your changes.
 <img src="./img/typescript.png" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;&nbsp;
 <img src="./img/tailwindcss.png" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>&nbsp;&nbsp;
 <img src="./img/reactjs.png" title="ReactJS" alt="ReactJS" width="45" height="40"/>&nbsp;&nbsp;
-<img src="./img/nodejs.png" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;&nbsp;
+<img src="./img/nodejs.jpg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;&nbsp;
 <img src="./img/expressjs.png" title="ExpressJS" alt="ExpressJS" width="40" height="40"/>&nbsp;&nbsp;
 <img src="./img/mongodb.png" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;&nbsp;
 <img src="./img/firebase.png" title="Firebase" alt="Firebase" width="39" height="40"/>&nbsp;&nbsp;
