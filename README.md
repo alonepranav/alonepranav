@@ -10,9 +10,13 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently working on projects and looking for opportunity to work with peoples.
 
-- 😇 Here, I keep my codes, projects, web apps, API, and coding stuff.
+- 😇 Here, I keep my **codes**, **projects**, **web apps**, **API**, and **coding stuff**.
+
+-  💻 All of my project's public code is available here
 
 - 📫 Reach me by sending me an email at <a href="mailto:shilavanepranav@gmail.com?subject=Contact&&body=Github - Contact Pranav">**shilavanepranav@gmail.com**</a> 
+
+
 
 
 
@@ -24,9 +28,12 @@ You can click the Preview link to take a look at your changes.
 
 
 
- <h3 align="left">Technologies I know : </h3>
+
+
+<h3 align="left">Technologies I know : </h3>
 <p align="left">
 <img src="./img/nextjs.png" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;&nbsp;
+<img src="./img/typescript.png" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;&nbsp;
 <img src="./img/tailwindcss.png" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>&nbsp;&nbsp;
 <img src="./img/reactjs.png" title="ReactJS" alt="ReactJS" width="45" height="40"/>&nbsp;&nbsp;
 <img src="./img/nodejs.png" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;&nbsp;
@@ -39,17 +46,24 @@ You can click the Preview link to take a look at your changes.
 <img src="./img/js.png" title="Javascript" alt="Javascrip" width="40" height="40"/>&nbsp;&nbsp;
 </p>
 
-<h3 align="left">Connect with me:</h3>
 
+
+
+
+<h3 align="left">Connect with me:</h3>
 <a href="https://instagram.com/pranavshilavane" target="_blank">
 <img src="./img/instagram.png" title="Instagram" alt="Instagra Logo" width="40" height="40"/>
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://replit.com/@pranavshilavane" target="_blank">
+<a href="https://twitter.com/pranavshilavane" target="_blank">
  <img src="./img/x.png" title="Twitter" alt="Twitter Logo" width="40" height="40"/>
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://replit.com/@pranavshilavane" target="_blank">
+<a href="https://www.linkedin.com/in/pranav-shilavane-9245b8236/" target="_blank">
 <img src="./img/linked.png" title="Javascript" alt="c" width="40" height="40"/>&nbsp;
 </a>
+
+
+
+
 
 <br/>
 
@@ -58,7 +72,6 @@ You can click the Preview link to take a look at your changes.
 
 [![](https://visitcount.itsvg.in/api?id=alonepranav&icon=1&color=1)](https://visitcount.itsvg.in)
 </p>
-
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alonepranav&hide_border=false&include_all_commits=truese&count_private=true&layout=compact" alt="alonepranav" />
