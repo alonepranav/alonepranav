@@ -3,60 +3,67 @@ alonepranav/alonepranav is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-<h2>Hi, I am Pranav 👋</h2>
+<h1 align="center">Hi 👋, I am Pranav</h1>
 
-<img src="./img/gif.gif" align="right" alt="GIF" height="220px" width="300px" style="border-radius:5px !important"/>
 
-- 🧑‍💻 I am a Web Developer
+- 🧑‍💻 I am a **Full Stack Web Developer**
 
-- 🌱 I’m currently working on projects.
+- 🌱 I’m currently working on projects and looking for opportunity to work with peoples.
+
 - 😇 Here, I keep my codes, projects, web apps, API, and coding stuff.
-- 📫 How to reach me : send me a 👉<a href="mailto:pranavshilavane1@gmail.com">**Email 📩**</a> 👈
 
-<h4><a href="https://pranavshilavane.vercel.app">🔗 My portfolio Website</a></h4>
+- 📫 Reach me by sending me an email at <a href="mailto:shilavanepranav@gmail.com?subject=Contact&&body=Github - Contact Pranav">**shilavanepranav@gmail.com**</a> 
 
-<h4><a href="https://project-pranav.web.app">🔗 My Project Showcase website</a></h4>
 
-<h3 align="left">I know to code in this : </h3>    
+
+**Must Visit :**
+
+**🔗 Portfolio Website : [https://pranavshilavane.netlify.app](https://pranavshilavane.netlify.app)**
+
+**🔗 Project Showcase Website : [https://projects-by-pranav.vercel.app](https://projects-by-pranav.vercel.app)**
+
+
+
+ <h3 align="left">Technologies I know : </h3>
 <p align="left">
-<img src="./img/reactjs.png" title="ReactJS" alt="c" width="45" height="40"/>&nbsp;
-<img src="./img/nextjs.png" title="NextJS" alt="c" width="40" height="40"/>&nbsp;
-<img src="./img/nodejs.png" title="NodeJS" alt="c" width="40" height="40"/>&nbsp;
-<img src="./img/expressjs.png" title="ExpressJS" alt="c" width="40" height="40"/>&nbsp;
-<img src="./img/redux.png" title="Redux" alt="c" width="39" height="40"/>&nbsp;
-<img src="./img/html.png" title="HTML" alt="c" width="40" height="40"/>&nbsp;
-<img src="./img/css.png" title="CSS" alt="c" width="40" height="40"/>&nbsp;
-<img src="./img/js.png" title="Javascript" alt="c" width="40" height="40"/>&nbsp;
-<img src="./img/tailwindcss.png" title="Tailwind CSS" alt="c" width="40" height="40"/>&nbsp;
-<img src="./img/c.png" title="C" alt="c" width="40" height="40"/>&nbsp;
-<!--<img src="./img/c++.png" title="C++" alt="c" width="45" height="41"/>-->&nbsp;
-<img src="./img/python.png" title="Python" alt="c" width="40" height="40"/>&nbsp;
-</p>
-
-<h3 align="left">I know about this databases :</h3>    
-<p align="left">
-<img src="./img/firebase.png"  title="Firebase" alt="c" width="40" height="40"/>&nbsp;
-<img src="./img/mongodb.png" title="Mongo DB" alt="c" width="40" height="40"/>&nbsp;
-</p>
-
-<h3 align="left">I use these tools :</h3>    
-<p align="left">
-<img src="./img/git.png" title="Git" alt="c" width="40" height="40"/>&nbsp;
-<img src="./img/vscode.png" title="VS Code" alt="c" width="40" height="40"/>
+<img src="./img/nextjs.png" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
+<img src="./img/tailwindcss.png" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>&nbsp;
+<img src="./img/reactjs.png" title="ReactJS" alt="ReactJS" width="45" height="40"/>&nbsp;
+<img src="./img/nodejs.png" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+<img src="./img/expressjs.png" title="ExpressJS" alt="ExpressJS" width="40" height="40"/>&nbsp;
+<img src="./img/mongodb.png" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+<img src="./img/firebase.png" title="Firebase" alt="Firebase" width="39" height="40"/>&nbsp;
+<img src="./img/redux.png" title="Redux" alt="Redux" width="39" height="40"/>&nbsp;
+<img src="./img/html.png" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="./img/css.png" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
+<img src="./img/js.png" title="Javascript" alt="Javascrip" width="40" height="40"/>&nbsp;
 </p>
 
 <h3 align="left">Connect with me:</h3>
 
-- Replit : &nbsp;&nbsp; **<a href="https://replit.com/@pranavshilavane" target="_blank">@PranavShilavane</a>**
-- Github : &nbsp;&nbsp; **<a href="https://github.com/pranavshilavane" target="_blank">@PranavShilavane</a>**
-- Instagram : &nbsp;&nbsp; **<a href="https://instagram.com/pranavshilavane" target="_blank">@PranavShilavane</a>**
-- Linkedin : &nbsp;&nbsp; **<a href="https://www.linkedin.com/in/pranav-shilavane-9245b8236/" target="_blank">@PranavShilavane</a>**
-- Twitter : &nbsp;&nbsp; **<a href="https://twitter.com/pranavshilavane" target="_blank">@PranavShilavane</a>**
+<a href="https://replit.com/@pranavshilavane" target="_blank">
+<img src="./img/instagram.png" title="Javascript" alt="c" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</a>
+<a href="https://replit.com/@pranavshilavane" target="_blank">
+ <img src="./img/x.png" title="Javascript" alt="c" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</a>
+<a href="https://replit.com/@pranavshilavane" target="_blank">
+<img src="./img/linked.png" title="Javascript" alt="c" width="40" height="40"/>&nbsp;
+</a>
 
-<p>
+<br/>
 
-<img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=alonepranav&show_icons=true&locale=en&layout=donut" alt="alonepranav" />
-</p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alonepranav&show_icons=true&locale=en" alt="alonepranav" /></p>
+# Github Stats
 
-<!--
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alonepranav&" alt="alonepranav" /></p> -->
+
+[![](https://visitcount.itsvg.in/api?id=alonepranav&icon=1&color=1)](https://visitcount.itsvg.in)
+</p>
+
+
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alonepranav&hide_border=false&include_all_commits=truese&count_private=true&layout=compact" alt="alonepranav" />
+</p>
+
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=alonepranav&show_icons=true&locale=en" alt="alonepranav" />
+</p>
