@@ -30,8 +30,11 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<h3 align="left">Technologies I know : </h3>
+<h3 align="left">Technologies & Tools I know : </h3>
 <p align="left">
+<img src="./img/git.png" title="Git" alt="Git" width="40" height="40"/>&nbsp;&nbsp;
+<img src="./img/github.png" title="Github" alt="Github" width="40" height="40"/>&nbsp;&nbsp;
+<img src="./img/vscode.png" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;&nbsp;
 <img src="./img/nextjs.png" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;&nbsp;
 <img src="./img/typescript.png" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;&nbsp;
 <img src="./img/tailwindcss.png" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>&nbsp;&nbsp;
