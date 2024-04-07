@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 
 **🔗 Portfolio Website : [https://pranavshilavane.netlify.app](https://pranavshilavane.netlify.app)**
 
-**🔗 Project Showcase Website : [https://projects-by-pranav.vercel.app](https://projects-by-pranav.vercel.app)**
+**🔗 Projects Website : [https://projects-by-pranav.vercel.app](https://projects-by-pranav.vercel.app)**
 
 
 
