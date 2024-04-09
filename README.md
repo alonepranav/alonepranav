@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently working on projects and looking for opportunity to work with peoples.
 
-- 😇 Here, I keep my **codes**, **projects**, **web apps**, **API**, and **coding stuff**.
+- 😇 Here, I keep my **codes**, **projects**, and other stuff.
 
 -  💻 All of my project's public code is available here
 
