@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🧑‍💻 I am a **Full Stack Web Developer**
 
-// - 🌱 I’m currently working on projects and looking for opportunity to work with peoples.
+<!-- - 🌱 I’m currently working on projects and looking for opportunity to work with peoples.-->
 
 - 😇 Here, I keep my **codes**, **projects**, and other stuff.
 
