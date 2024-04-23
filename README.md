@@ -82,6 +82,8 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=alonepranav&show_icons=true&locale=en" alt="alonepranav" />
-<br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alonepranav&" alt="sdsad" /></p>
+</p>
+
+<p class="display:flex;justify-content:center;">
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=alonepranav&" alt="sdsad" />
 </p>
