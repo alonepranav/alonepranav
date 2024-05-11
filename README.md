@@ -8,14 +8,13 @@ You can click the Preview link to take a look at your changes.
 
 - 🧑‍💻 I am a **Full Stack Web Developer**
 
-<!-- - 🌱 I’m currently working on projects and looking for opportunity to work with peoples.-->
-
 - 😇 Here, I keep my **codes**, **projects**, and other stuff.
 
 -  💻 All of my project's public code is available here
 
 - 📫 Reach me by sending me an email at <a href="mailto:shilavanepranav@gmail.com?subject=Contact&&body=Github - Contact Pranav">**shilavanepranav@gmail.com**</a> 
 
+- 🌱 I’m currently working on **projects** and looking for **internship** opportunity to work with peoples and improve my skills.
 
 
 
@@ -30,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<h3 align="left">Technologies & Tools I know : </h3>
+<h3 align="left">Tools & Technologies I know : </h3>
 <p align="left">
 <img src="./img/git.png" title="Git" alt="Git" width="40" height="40"/>&nbsp;&nbsp;
 <img src="./img/github.png" title="Github" alt="Github" width="40" height="40"/>&nbsp;&nbsp;
