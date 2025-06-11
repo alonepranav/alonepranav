@@ -5,11 +5,11 @@ You can click the Preview link to take a look at your changes.
 
 # Hello 👋, I am Pranav
  
-- 🧑‍💻 I am a **Full Stack Web Developer**
+- 🧑‍💻 **Web Developer**
  
 - 😇 Here, I keep my **codes**, **projects**, and other stuff.
 - 💻 All of my project's public code is available here.
-- 🌱 I’m currently working on **projects** and looking for **internship** opportunity to work with peoples and improve my skills.
+<!-- - 🌱 I’m currently working on **projects** and looking for **internship** opportunity to work with peoples and improve my skills. -->
  
 #### **🔗 Projects Website : [https://projects-by-pranav.vercel.app](https://projects-by-pranav.vercel.app)**
  
