@@ -50,7 +50,7 @@ You can click the Preview link to take a look at your changes.
  
 <p style="font-size:25px; margin-top:30px; font-weight:500">📊 GitHub Stats :</p>
 
-<div style="display:flex; justify-content:center; gap:30px">
+<div style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
     <p align="right">
         <img  src="https://github-readme-streak-stats.herokuapp.com/?user=alonepranav&" alt="sdsad" />
     </p>
