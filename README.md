@@ -3,10 +3,8 @@ alonepranav/alonepranav is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-<span style="font-weight:600; font-size:30px">**Hey 👋, I'm Pranav**</span> <i style="font-weight:400">&nbsp;&nbsp;&nbsp;[ Student | Developer ]</i>
-
-<br/>
-
+<h2>Hey 👋, I'm Pranav <small>&nbsp;&nbsp;&nbsp;[ Student | Developer ]</small></h2>
+ 
 - I’m a **Student** and **Developer** like to build web applications.
 
 - I also have a strong interest in UI/UX design, having worked on visuals using **Canva**.
