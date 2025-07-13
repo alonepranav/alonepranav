@@ -3,7 +3,7 @@ alonepranav/alonepranav is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-<span style="font-weight:600; font-size:20px">**Hey 👋, I'm Pranav**</span> <i style="font-weight:400">&nbsp;&nbsp;&nbsp;[ Student | Developer ]</i>
+<span style="font-weight:600; font-size:30px">**Hey 👋, I'm Pranav**</span> <i style="font-weight:400">&nbsp;&nbsp;&nbsp;[ Student | Developer ]</i>
 
 <br/>
 
@@ -26,27 +26,27 @@ You can click the Preview link to take a look at your changes.
 
 <p style="margin-top:10px"></p>
 
-<img src="./img/tools/vscode.png" alt="c" width="50" height="50"/>&nbsp;&nbsp;
-<img src="./img/tools/git.png" alt="c" width="50" height="50"/>&nbsp;&nbsp;
-<img src="./img/tools/canva.png" alt="c" width="50" height="50"/>&nbsp;&nbsp;
-<img src="./img/tools/github.png" alt="c" width="50" height="50"/>&nbsp;&nbsp;
+<img src="./img/tools/vscode.png" alt="VS Code" width="40" height="40"/>&nbsp;&nbsp;
+<img src="./img/tools/git.png" alt="GIT" width="40" height="40"/>&nbsp;&nbsp;
+<img src="./img/tools/canva.png" alt="Canva" width="40" height="40"/>&nbsp;&nbsp;
+<img src="./img/tools/github.png" alt="Github" width="40" height="40"/>&nbsp;&nbsp;
 
-<img src="./img/nextjs.png" alt="c" width="50" height="50"/>&nbsp;&nbsp;
-<img src="./img/typescript.png" alt="c" width="50" height="50"/>&nbsp;&nbsp;
-<img src="./img/tailwindcss.png" alt="c" width="50" height="50"/>&nbsp;&nbsp;
-<img src="./img/mongodb.png" alt="c" width="50" height="50"/>&nbsp;&nbsp;
-<img src="./img/expressjs.png" alt="c" width="50" height="50"/>&nbsp;&nbsp;
-<img src="./img/reactjs.png" alt="c" width="50" height="50"/>&nbsp;&nbsp;
-<img src="./img/nodejs.jpg" alt="c" width="50" height="50"/>&nbsp;&nbsp;
-<img src="./img/java.png" alt="java" width="55" height="55"/>&nbsp;&nbsp;
-<img src="./img/firebase.png" alt="c" width="50" height="50"/>&nbsp;&nbsp;
-<img src="./img/redux.png" alt="c" width="50" height="50"/>&nbsp;&nbsp;
-<img src="./img/html.png" alt="c" width="50" height="50"/>&nbsp;&nbsp;
-<img src="./img/css.png" alt="c" width="50" height="50"/>&nbsp;&nbsp;
-<img src="./img/js.png" alt="c" width="50" height="50"/>&nbsp;&nbsp;
-<img src="./img/c.png" alt="c" width="50" height="50"/>&nbsp;&nbsp;
-<img src="./img/c++.png" alt="c" width="50" height="50"/>&nbsp;&nbsp;
-<img src="./img/python.png" alt="c" width="50" height="50"/>&nbsp;&nbsp;
+<img src="./img/nextjs.png" alt="NextJS" width="40" height="40"/>&nbsp;&nbsp;
+<img src="./img/typescript.png" alt="Typescript" width="40" height="40"/>&nbsp;&nbsp;
+<img src="./img/tailwindcss.png" alt="Tailwind CSS" width="40" height="40"/>&nbsp;&nbsp;
+<img src="./img/mongodb.png" alt="MongoDB" width="40" height="40"/>&nbsp;&nbsp;
+<img src="./img/expressjs.png" alt="ExpressJS" width="40" height="40"/>&nbsp;&nbsp;
+<img src="./img/reactjs.png" alt="ReactJS" width="40" height="40"/>&nbsp;&nbsp;
+<img src="./img/nodejs.jpg" alt="NodeJS" width="40" height="40"/>&nbsp;&nbsp;
+<img src="./img/java.png" alt="Java" width="45" height="45"/>&nbsp;&nbsp;
+<img src="./img/firebase.png" alt="Firebase" width="40" height="40"/>&nbsp;&nbsp;
+<img src="./img/redux.png" alt="Redux" width="40" height="40"/>&nbsp;&nbsp;
+<img src="./img/html.png" alt="HTML" width="40" height="40"/>&nbsp;&nbsp;
+<img src="./img/css.png" alt="CSS" width="40" height="40"/>&nbsp;&nbsp;
+<img src="./img/js.png" alt="Javascript" width="40" height="40"/>&nbsp;&nbsp;
+<img src="./img/c.png" alt="C" width="40" height="40"/>&nbsp;&nbsp;
+<img src="./img/c++.png" alt="C++" width="40" height="40"/>&nbsp;&nbsp;
+<img src="./img/python.png" alt="Python" width="40" height="40"/>&nbsp;&nbsp;
  
 <p style="font-size:25px; margin-top:30px;">
 
