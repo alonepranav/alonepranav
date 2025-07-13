@@ -3,7 +3,7 @@ alonepranav/alonepranav is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-<span style="font-weight:600; font-size:20px">Hey 👋, I'm Pranav</span> <i style="font-weight:400">&nbsp;&nbsp;&nbsp;[ Student | Developer ]</i>
+<span style="font-weight:600; font-size:20px">**Hey 👋, I'm Pranav**</span> <i style="font-weight:400">&nbsp;&nbsp;&nbsp;[ Student | Developer ]</i>
 
 <br/>
 
@@ -19,9 +19,9 @@ You can click the Preview link to take a look at your changes.
   
 #### **🔗 Projects Website** : <a href="https://projects-by-pranav.vercel.app">https://projects-by-pranav.vercel.app</a>  
 
-
 <p style="font-size:25px; margin-top:20px;">
-👨‍💻 ➡️
+
+## 👨‍💻 ➡️ 
 </p>
 
 <p style="margin-top:10px"></p>
@@ -48,13 +48,14 @@ You can click the Preview link to take a look at your changes.
 <img src="./img/c++.png" alt="c" width="50" height="50"/>&nbsp;&nbsp;
 <img src="./img/python.png" alt="c" width="50" height="50"/>&nbsp;&nbsp;
  
-<p style="font-size:25px; margin-top:30px; font-weight:500">📊 GitHub Stats :</p>
+<p style="font-size:25px; margin-top:30px;">
 
+## 📊 GitHub Stats :</p>
 <div style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
-    <p align="right">
+    <p>
         <img  src="https://github-readme-streak-stats.herokuapp.com/?user=alonepranav&" alt="sdsad" />
     </p>
-    <p align="left">
+    <p>
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alonepranav&hide_border=false&include_all_commits=truese&count_private=true&layout=compact" alt="alonepranav" />
     </p>
 </div>
