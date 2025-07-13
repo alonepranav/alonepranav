@@ -2,9 +2,9 @@
 alonepranav/alonepranav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-<h2>Hey 👋, I'm Pranav <small>&nbsp;&nbsp;&nbsp;[ Student | Developer ]</small></h2>
  
+<h2>Hey 👋, I'm Pranav </h2>
+  
 - I’m a **Student** and **Developer** like to build web applications.
 
 - I also have a strong interest in UI/UX design, having worked on visuals using **Canva**.
