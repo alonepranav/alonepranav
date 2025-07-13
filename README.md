@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 ## 👨‍💻 ➡️ 
 </p> -->
 
-<p style="margin-top:10px"></p>
+<p style="margin-top:20px"></p>
 
 <img src="./img/tools/vscode.png" alt="VS Code" width="40" height="40"/>&nbsp;&nbsp;
 <img src="./img/tools/git.png" alt="GIT" width="40" height="40"/>&nbsp;&nbsp;
